@@ -1,0 +1,42 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    line-height: 18px;
+    color: #515076;
+}
+
+.product {
+    background-image: url('../img/bg.png');
+    background-repeat: no-repeat;
+}
+
+.product h2 {
+    text-align: center;
+    font-size: 70px;
+    line-height: 78px;
+    font-weight: 400;
+}
+
+.card {
+    background-color: #f7f7fa;
+}
+
+.card-title {
+    font-size: 20px;
+    line-height: 27px;
+}
+
+.card-category {
+    color: #a5a3b9;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+.card-price {
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.card-price-name {
+    font-weight: 700;
+}
