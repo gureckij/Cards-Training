@@ -1,20 +1,37 @@
 body {
+    margin: 0;
     font-family: 'Montserrat', sans-serif;
     font-size: 13px;
     line-height: 18px;
     color: #515076;
 }
 
+.main-content {
+    width: 1280px;
+    margin: 0 auto;
+    padding: 0 85px;
+}
+
 .product {
     background-image: url('../img/bg.png');
     background-repeat: no-repeat;
+    padding-top: 220px;
+    padding-bottom: 116px;
 }
 
 .product h2 {
+    margin: 0;
+    margin-bottom: 110px;
     text-align: center;
     font-size: 70px;
     line-height: 78px;
     font-weight: 400;
+}
+
+.cards {
+    margin: 0;
+    padding: 0;
+    list-style: none;
 }
 
 .card {
