@@ -45,17 +45,33 @@ body {
 }
 
 .card-title {
+    margin: 0;
     font-size: 20px;
     line-height: 27px;
 }
 
+.card-description {
+    margin: 0;
+}
+
+.card-features-title {
+    margin: 0;
+}
+
+.card-features {
+    margin: 0;
+    padding: 0;
+}
+
 .card-category {
+    margin: 0;
     color: #a5a3b9;
     font-size: 12px;
     text-transform: uppercase;
 }
 
 .card-price {
+    margin: 0;
     font-size: 20px;
     line-height: 24px;
 }
