@@ -35,6 +35,8 @@ body {
 }
 
 .card {
+    width: 290px;
+    padding: 25px;
     background-color: #f7f7fa;
 }
 
